@@ -3,7 +3,7 @@
 
 ## Chrome Extensions Documentation
 
-https://developer.chrome.com/docs/extensions/
+- https://developer.chrome.com/docs/extensions/
 
 ## API Reference
 
