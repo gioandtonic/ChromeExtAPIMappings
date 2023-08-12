@@ -7,4 +7,7 @@ https://developer.chrome.com/docs/extensions/
 
 ## API Reference
 
-https://developer.chrome.com/docs/extensions/reference/
+- https://developer.chrome.com/docs/extensions/reference/
+
+## Chrome Notifications API
+- https://developer.chrome.com/docs/extensions/mv3/richNotifications/
