@@ -7,7 +7,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | Name | Description | Status |
 | ---- | ----------- | ------ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/" target="_blank">accessibilityFeatures</a> | - | ❌ |
-| <a href="https://developer.chrome.com/docs/extensions/reference/action/" target="_blank">action</a> | - | 🛠️ |
+| <a href="https://developer.chrome.com/docs/extensions/reference/action/" target="_blank">action</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/alarms/" target="_blank">alarms</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/bookmarks/" target="_blank">bookmarks</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/browserAction/" target="_blank">browserAction</a> | - | ❌ |
