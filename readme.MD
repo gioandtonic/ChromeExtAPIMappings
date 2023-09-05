@@ -6,7 +6,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 
 | Name | Description | Status |
 | ---- | ----------- | ------ |
-| <a href="https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/" target="_blank">accessibilityFeatures</a> | - | ❌ |
+| <a href="https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/" target="_blank">accessibilityFeatures</a> | - | 🛠️ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/action/" target="_blank">action</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/alarms/" target="_blank">alarms</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/bookmarks/" target="_blank">bookmarks</a> | - | ❌ |
@@ -28,7 +28,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | <a href="https://developer.chrome.com/docs/extensions/reference/downloads/" target="_blank">downloads</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/enterprise_hardwarePlatform/" target="_blank">enterprise.hardwarePlatform</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/enterprise_platformKeys/" target="_blank">enterprise.platformKeys</a> | - | ❌ |
-| <a href="https://developer.chrome.com/docs/extensions/reference/events/" target="_blank">events</a> | - | 🛠️ |
+| <a href="https://developer.chrome.com/docs/extensions/reference/events/" target="_blank">events</a> | - | ✅ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/extension/" target="_blank">extension</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/extensionTypes/" target="_blank">extensionTypes</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/fontSettings/" target="_blank">fontSettings</a> | - | ❌ |
@@ -66,7 +66,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | <a href="https://developer.chrome.com/docs/extensions/reference/topSites/" target="_blank">topSites</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/tts/" target="_blank">tts</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/ttsEngine/" target="_blank">ttsEngine</a> | - | ❌ |
-| <a href="https://developer.chrome.com/docs/extensions/reference/types/" target="_blank">types</a> | - | 🛠️ |
+| <a href="https://developer.chrome.com/docs/extensions/reference/types/" target="_blank">types</a> | - | ✅ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/webAuthenticationProxy/" target="_blank">webAuthenticationProxy</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/webNavigation/" target="_blank">webNavigation</a> | - | ❌ |
 | <a href="https://developer.chrome.com/docs/extensions/reference/webRequest/" target="_blank">webRequest</a> | - | ❌ |
