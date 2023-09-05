@@ -2,11 +2,76 @@
 
 ## API Mappings
 
+Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
+
 | Name | Description | Status |
 | ---- | ----------- | ------ |
-| accessibilityFeatures | - | ✅ |
-| action | - | ❌ |
-| alarms | - | 🛠️ |
+| accessibilityFeatures | - | ❌ |
+| action | - | 🛠️ |
+| alarms | - | ❌ |
+| bookmarks | - | ❌ |
+| browserAction | - | ❌ |
+| browsingData | - | ❌ |
+| commands | - | ❌ |
+| contentSettings | - | ❌ |
+| contextMenus | - | ❌ |
+| cookies | - | ❌ |
+| debugger | - | ❌ |
+| declarativeContent | - | ❌ |
+| declarativeNetRequest | - | ❌ |
+| desktopCapture | - | ❌ |
+| devtools.inspectedWindow | - | ❌ |
+| devtools.network | - | ❌ |
+| devtools.panels | - | ❌ |
+| devtools.recorder | - | ❌ |
+| dom | - | ❌ |
+| downloads | - | ❌ |
+| enterprise.hardwarePlatform | - | ❌ |
+| enterprise.platformKeys | - | ❌ |
+| events | - | 🛠️ |
+| extension | - | ❌ |
+| extensionTypes | - | ❌ |
+| fontSettings | - | ❌ |
+| gcm | - | ❌ |
+| history | - | ❌ |
+| i18n | - | ❌ |
+| identity | - | ❌ |
+| idle | - | ❌ |
+| input.ime | - | ❌ |
+| instanceID | - | ❌ |
+| management | - | ❌ |
+| notifications | - | ❌ |
+| offscreen | - | ❌ |
+| omnibox | - | ❌ |
+| pageAction | - | ❌ |
+| pageCapture | - | ❌ |
+| permissions | - | ❌ |
+| power | - | ❌ |
+| printerProvider | - | ❌ |
+| privacy | - | ❌ |
+| proxy | - | ❌ |
+| runtime | - | ❌ |
+| scripting | - | ❌ |
+| search | - | ❌ |
+| sessions | - | ❌ |
+| sidePanel | - | ❌ |
+| storage | - | ❌ |
+| system.cpu | - | ❌ |
+| system.display | - | ❌ |
+| system.memory | - | ❌ |
+| system.storage | - | ❌ |
+| tabCapture | - | ❌ |
+| tabGroups | - | ❌ |
+| tabs | - | ❌ |
+| topSites | - | ❌ |
+| tts | - | ❌ |
+| ttsEngine | - | ❌ |
+| types | - | 🛠️ |
+| webAuthenticationProxy | - | ❌ |
+| webNavigation | - | ❌ |
+| webRequest | - | ❌ |
+| windows | - | ❌ |
+
 
 
 ## Chrome Extensions Documentation
