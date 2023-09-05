@@ -2,7 +2,7 @@ plugins {
     kotlin("multiplatform") version "1.9.0"
 }
 
-group = "org.example"
+group = "chrome"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -40,7 +40,7 @@ kotlin {
         else -> throw GradleException("Host OS is not supported in Kotlin/Native.")
     }
 
-    
+
     sourceSets {
         val commonMain by getting
         val commonTest by getting {
@@ -50,7 +50,12 @@ kotlin {
         }
         val jvmMain by getting
         val jvmTest by getting
-        val jsMain by getting
+        val jsMain by getting {
+            dependencies {
+                implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3") //https://github.com/Kotlin/kotlinx.coroutines
+                //implementation("org.jetbrains.kotlin-wrappers:kotlin-js:1.0.0-pre621") //
+            }
+        }
         val jsTest by getting
         val nativeMain by getting
         val nativeTest by getting
