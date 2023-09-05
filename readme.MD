@@ -1,5 +1,13 @@
 # Chrome Extensions API mappings for Kotlin JS
 
+## API Mappings
+
+| Name | Description | Status |
+| ---- | ----------- | ------ |
+| accessibilityFeatures | - | ✅ |
+| action | - | ❌ |
+| alarms | - | 🛠️ |
+
 
 ## Chrome Extensions Documentation
 
