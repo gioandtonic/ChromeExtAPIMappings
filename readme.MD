@@ -6,7 +6,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 
 | Name | Description | Status |
 | ---- | ----------- | ------ |
-| accessibilityFeatures | - | ❌ |
+| (accessibilityFeatures)[https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/] | - | ❌ |
 | action | - | 🛠️ |
 | alarms | - | ❌ |
 | bookmarks | - | ❌ |
