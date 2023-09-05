@@ -1,4 +1,4 @@
-package chrome.accesibilityfeatures
+package chrome.accesibilityFeatures
 
 enum class AnimationPolicyType {
     allowed,

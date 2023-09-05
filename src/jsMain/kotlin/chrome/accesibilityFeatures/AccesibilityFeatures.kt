@@ -1,6 +1,6 @@
 @file:JsQualifier("chrome.accesibilityFeatures")
 
-package chrome.accesibilityfeatures
+package chrome.accesibilityFeatures
 
 import chrome.types.ChromeSetting
 
