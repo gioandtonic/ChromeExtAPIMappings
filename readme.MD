@@ -6,8 +6,8 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 
 | Name | Description | Status |
 | ---- | ----------- | ------ |
-| [accessibilityFeatures](https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/) | - | ❌ |
-| [action](https://developer.chrome.com/docs/extensions/reference/action/) | - | 🛠️ |
+| [accessibilityFeatures](https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/) | - | 🛠 |
+| [action](https://developer.chrome.com/docs/extensions/reference/action/) | - | ✅️ |
 | [alarms](https://developer.chrome.com/docs/extensions/reference/alarms/) | - | ❌ |
 | [bookmarks](https://developer.chrome.com/docs/extensions/reference/bookmarks/) | - | ❌ |
 | [browserAction](https://developer.chrome.com/docs/extensions/reference/browserAction/) | - | ❌ |
@@ -66,7 +66,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | [topSites](https://developer.chrome.com/docs/extensions/reference/topSites/) | - | ❌ |
 | [tts](https://developer.chrome.com/docs/extensions/reference/tts/) | - | ❌ |
 | [ttsEngine](https://developer.chrome.com/docs/extensions/reference/ttsEngine/) | - | ❌ |
-| [types](https://developer.chrome.com/docs/extensions/reference/types/) | - | 🛠️ |
+| [types](https://developer.chrome.com/docs/extensions/reference/types/) | - | ✅️ |
 | [webAuthenticationProxy](https://developer.chrome.com/docs/extensions/reference/webAuthenticationProxy/) | - | ❌ |
 | [webNavigation](https://developer.chrome.com/docs/extensions/reference/webNavigation/) | - | ❌ |
 | [webRequest](https://developer.chrome.com/docs/extensions/reference/webRequest/) | - | ❌ |

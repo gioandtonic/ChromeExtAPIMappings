@@ -27,6 +27,7 @@ kotlin {
                 }
             }
         }
+        binaries.executable()
     }
     val hostOs = System.getProperty("os.name")
     val isArm64 = System.getProperty("os.arch") == "aarch64"
@@ -42,7 +43,11 @@ kotlin {
 
 
     sourceSets {
-        val commonMain by getting
+        val commonMain by getting {
+            dependencies {
+                implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3") //https://github.com/Kotlin/kotlinx.coroutines
+            }
+        }
         val commonTest by getting {
             dependencies {
                 implementation(kotlin("test"))
@@ -53,7 +58,8 @@ kotlin {
         val jsMain by getting {
             dependencies {
                 implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3") //https://github.com/Kotlin/kotlinx.coroutines
-                //implementation("org.jetbrains.kotlin-wrappers:kotlin-js:1.0.0-pre621") //
+                implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.7.3")
+                implementation(npm("chrome-types", "0.1.231"))
             }
         }
         val jsTest by getting
