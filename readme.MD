@@ -73,7 +73,6 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | [windows](https://developer.chrome.com/docs/extensions/reference/windows/) | - | ❌ |
 
 
-
 ## Chrome Extensions Documentation
 
 - https://developer.chrome.com/docs/extensions/
