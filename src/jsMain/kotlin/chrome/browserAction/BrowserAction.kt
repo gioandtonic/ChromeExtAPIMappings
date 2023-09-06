@@ -24,6 +24,32 @@ external interface TabDetails {
     var tabId: JsNumber?
 }
 
+external interface BackgroundColorDetails {
+    var color: ColorArray
+    var tabId: JsNumber?
+}
+
+external interface BadgeTextDetails {
+    var tabId: JsNumber?
+    var text: String?
+}
+
+external interface IconDetails {
+    var imageData: ImageDataValue?
+    var path: PathValue?
+    var tabId: JsNumber?
+}
+
+external interface PopupDetails {
+    var popup: String
+    var tabId: JsNumber?
+}
+
+external interface TitleDetails {
+    var tabId: JsNumber?
+    var title: String
+}
+
 external fun disable(tabId: JsNumber?): Promise<Unit>
 external fun enable(tabId: JsNumber?): Promise<Unit>
 
@@ -33,41 +59,14 @@ external fun getBadgeText(details: TabDetails): Promise<String>
 
 external fun getPopup(details: TabDetails): Promise<String>
 external fun getTitle(details: TabDetails): Promise<String>
-external interface BackgroundColorDetails {
-    var color: ColorArray
-    var tabId: JsNumber?
-}
 
 external fun setBadgeBackgroundColor(details: BackgroundColorDetails): Promise<Unit>
 
-external interface BadgeTextDetails {
-    var tabId: JsNumber?
-    var text: String?
-}
-
 external fun setBadgeText(details: BadgeTextDetails): Promise<Unit>
-
-
-external interface IconDetails {
-    var imageData: ImageDataValue?
-    var path: PathValue?
-    var tabId: JsNumber?
-}
 
 external fun setIcon(details: IconDetails): Promise<Unit>
 
-external interface PopupDetails {
-    var popup: String
-    var tabId: JsNumber?
-
-}
-
 external fun setPopup(details: PopupDetails): Promise<Unit>
-
-external interface TitleDetails {
-    var tabId: JsNumber?
-    var title: String
-}
 
 external fun setTitle(details: TitleDetails): Promise<Unit>
 
