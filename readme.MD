@@ -6,11 +6,11 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 
 | Name | Description | Status |
 | ---- | ----------- | ------ |
-| [accessibilityFeatures](https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/) | - | 🛠 |
+| [accessibilityFeatures](https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/) | - | ✅ |
 | [action](https://developer.chrome.com/docs/extensions/reference/action/) | - | ✅️ |
 | [alarms](https://developer.chrome.com/docs/extensions/reference/alarms/) | - | ❌ |
 | [bookmarks](https://developer.chrome.com/docs/extensions/reference/bookmarks/) | - | ❌ |
-| [browserAction](https://developer.chrome.com/docs/extensions/reference/browserAction/) | - | ❌ |
+| [browserAction](https://developer.chrome.com/docs/extensions/reference/browserAction/) | - | 🛠 |
 | [browsingData](https://developer.chrome.com/docs/extensions/reference/browsingData/) | - | ❌ |
 | [commands](https://developer.chrome.com/docs/extensions/reference/commands/) | - | ❌ |
 | [contentSettings](https://developer.chrome.com/docs/extensions/reference/contentSettings/) | - | ❌ |
@@ -30,7 +30,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | [enterprise.platformKeys](https://developer.chrome.com/docs/extensions/reference/enterprise_platformKeys/) | - | ❌ |
 | [events](https://developer.chrome.com/docs/extensions/reference/events/) | - | 🛠️ |
 | [extension](https://developer.chrome.com/docs/extensions/reference/extension/) | - | ❌ |
-| [extensionTypes](https://developer.chrome.com/docs/extensions/reference/extensionTypes/) | - | ❌ |
+| [extensionTypes](https://developer.chrome.com/docs/extensions/reference/extensionTypes/) | - | 🛠 |
 | [fontSettings](https://developer.chrome.com/docs/extensions/reference/fontSettings/) | - | ❌ |
 | [gcm](https://developer.chrome.com/docs/extensions/reference/gcm/) | - | ❌ |
 | [history](https://developer.chrome.com/docs/extensions/reference/history/) | - | ❌ |
@@ -50,7 +50,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | [printerProvider](https://developer.chrome.com/docs/extensions/reference/printerProvider/) | - | ❌ |
 | [privacy](https://developer.chrome.com/docs/extensions/reference/privacy/) | - | ❌ |
 | [proxy](https://developer.chrome.com/docs/extensions/reference/proxy/) | - | ❌ |
-| [runtime](https://developer.chrome.com/docs/extensions/reference/runtime/) | - | ❌ |
+| [runtime](https://developer.chrome.com/docs/extensions/reference/runtime/) | - | 🛠 |
 | [scripting](https://developer.chrome.com/docs/extensions/reference/scripting/) | - | ❌ |
 | [search](https://developer.chrome.com/docs/extensions/reference/search/) | - | ❌ |
 | [sessions](https://developer.chrome.com/docs/extensions/reference/sessions/) | - | ❌ |
@@ -62,7 +62,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | [system.storage](https://developer.chrome.com/docs/extensions/reference/system_storage/) | - | ❌ |
 | [tabCapture](https://developer.chrome.com/docs/extensions/reference/tabCapture/) | - | ❌ |
 | [tabGroups](https://developer.chrome.com/docs/extensions/reference/tabGroups/) | - | ❌ |
-| [tabs](https://developer.chrome.com/docs/extensions/reference/tabs/) | - | ❌ |
+| [tabs](https://developer.chrome.com/docs/extensions/reference/tabs/) | - | 🛠 |
 | [topSites](https://developer.chrome.com/docs/extensions/reference/topSites/) | - | ❌ |
 | [tts](https://developer.chrome.com/docs/extensions/reference/tts/) | - | ❌ |
 | [ttsEngine](https://developer.chrome.com/docs/extensions/reference/ttsEngine/) | - | ❌ |
