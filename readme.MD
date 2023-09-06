@@ -12,7 +12,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | [bookmarks](https://developer.chrome.com/docs/extensions/reference/bookmarks/) | - | ✅|
 | [browserAction](https://developer.chrome.com/docs/extensions/reference/browserAction/) | - | ✅|
 | [browsingData](https://developer.chrome.com/docs/extensions/reference/browsingData/) | - | ✅|
-| [commands](https://developer.chrome.com/docs/extensions/reference/commands/) | - | ❌ |
+| [commands](https://developer.chrome.com/docs/extensions/reference/commands/) | - | ✅|
 | [contentSettings](https://developer.chrome.com/docs/extensions/reference/contentSettings/) | - | ❌ |
 | [contextMenus](https://developer.chrome.com/docs/extensions/reference/contextMenus/) | - | ❌ |
 | [cookies](https://developer.chrome.com/docs/extensions/reference/cookies/) | - | ❌ |
