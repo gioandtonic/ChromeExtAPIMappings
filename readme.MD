@@ -8,7 +8,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | ---- | ----------- | ------ |
 | [accessibilityFeatures](https://developer.chrome.com/docs/extensions/reference/accessibilityFeatures/) | - | ✅ |
 | [action](https://developer.chrome.com/docs/extensions/reference/action/) | - | ✅️ |
-| [alarms](https://developer.chrome.com/docs/extensions/reference/alarms/) | - | ❌ |
+| [alarms](https://developer.chrome.com/docs/extensions/reference/alarms/) | - | ✅ |
 | [bookmarks](https://developer.chrome.com/docs/extensions/reference/bookmarks/) | - | ❌ |
 | [browserAction](https://developer.chrome.com/docs/extensions/reference/browserAction/) | - | 🛠 |
 | [browsingData](https://developer.chrome.com/docs/extensions/reference/browsingData/) | - | ❌ |
