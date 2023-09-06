@@ -13,7 +13,7 @@ Conventions: ( ✅ -> Done, 🛠️ -> WIP, ❌ -> Not done)
 | [browserAction](https://developer.chrome.com/docs/extensions/reference/browserAction/) | - | ✅|
 | [browsingData](https://developer.chrome.com/docs/extensions/reference/browsingData/) | - | ✅|
 | [commands](https://developer.chrome.com/docs/extensions/reference/commands/) | - | ✅|
-| [contentSettings](https://developer.chrome.com/docs/extensions/reference/contentSettings/) | - | ❌ |
+| [contentSettings](https://developer.chrome.com/docs/extensions/reference/contentSettings/) | - | ✅ |
 | [contextMenus](https://developer.chrome.com/docs/extensions/reference/contextMenus/) | - | ❌ |
 | [cookies](https://developer.chrome.com/docs/extensions/reference/cookies/) | - | ❌ |
 | [debugger](https://developer.chrome.com/docs/extensions/reference/debugger/) | - | ❌ |

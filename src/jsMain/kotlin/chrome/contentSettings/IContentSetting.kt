@@ -1,0 +1,3 @@
+package chrome.contentSettings
+
+external interface IContentSetting
