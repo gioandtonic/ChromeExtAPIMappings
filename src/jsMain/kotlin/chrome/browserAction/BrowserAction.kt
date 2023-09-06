@@ -4,6 +4,8 @@ package chrome.browserAction
 
 import chrome.events.Event
 import chrome.others.JsNumber
+import chrome.others.dualvalues.ImageDataValue
+import chrome.others.dualvalues.PathValue
 import chrome.tabs.Tab
 import org.w3c.dom.ImageData
 import kotlin.js.Promise
@@ -71,7 +73,7 @@ external fun setTitle(details: TitleDetails): Promise<Unit>
 /**
  *  https://developer.chrome.com/docs/extensions/reference/browserAction/#event-onClicked
  *
- *  Should use onClicked.addListener()
+ *  Should use onClicked.addListener(Callback<tabs.Tab>)
  */
 external var onClicked: Event<Tab>
 

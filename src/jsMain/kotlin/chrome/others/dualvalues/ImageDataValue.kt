@@ -1,4 +1,4 @@
-package chrome.browserAction
+package chrome.others.dualvalues
 
 import org.w3c.dom.ImageData
 

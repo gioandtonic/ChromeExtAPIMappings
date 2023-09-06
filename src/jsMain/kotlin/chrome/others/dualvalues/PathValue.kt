@@ -1,4 +1,4 @@
-package chrome.browserAction
+package chrome.others.dualvalues
 
 sealed class PathValue {
     data class Single(val path: String) : PathValue()

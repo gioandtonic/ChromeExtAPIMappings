@@ -1,6 +1,7 @@
 package chrome.events
 
 import chrome.others.Callback
+import chrome.others.VoidCallback
 
 external interface Event<T> {
     fun <T> addListener(callback: Callback<T>)
@@ -10,5 +11,5 @@ external interface Event<T> {
     fun <T> hasListener(callback: Callback<T>): Boolean
     fun hasListeners(): Boolean
     fun <T> removeListener(callback: Callback<T>)
-    fun removeRules(ruleIdentifiers: List<String>?, callback: () -> Unit)
+    fun removeRules(ruleIdentifiers: List<String>?, callback: VoidCallback)
 }
