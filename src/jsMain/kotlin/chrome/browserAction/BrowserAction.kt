@@ -3,6 +3,7 @@
 package chrome.browserAction
 
 import chrome.events.Event
+import chrome.others.Callback
 import chrome.others.JsNumber
 import chrome.others.dualvalues.ImageDataValue
 import chrome.others.dualvalues.PathValue
